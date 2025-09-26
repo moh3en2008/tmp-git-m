@@ -6,3 +6,8 @@ print(add(10, 20))
 
 print("Hello world")
 print("Hello from the other side") 
+
+def test():
+    return 'test'
+
+assert test() == 'test'
