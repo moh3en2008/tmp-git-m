@@ -21,4 +21,9 @@ def div(a, b):
     This function divides two numbers.
     """
     return a / b
-    
+
+def pow(a, b):
+    """
+    This function raises a number to the power of another number.
+    """
+    return a ** b
