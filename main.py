@@ -3,7 +3,7 @@ from utils import add
 
 print("Hello world")
 def main():
-    print('Ali Hejazizo')
+    print('Ali')
 
 if __name__ == '__main__':
     main()
